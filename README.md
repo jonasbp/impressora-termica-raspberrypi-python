@@ -1,1 +1,9 @@
-# impressora-termica-raspberrypi-python
+# Impressora Térmica com Raspberry Pi e Python
+
+Biblioteca utilizadas:
+```
+escpos.printer
+```
+```
+imgkit
+```
